@@ -20,9 +20,24 @@ With my  years of hands-on experience, I am proficient in the dynamic nature of 
 
 ## Achievements
 
-- **Pull Shark**
-- **Quickdraw**
+- **Successfully Led Cloud Migration Projects:** Spearheaded the migration of multiple applications to AWS and GCP, resulting in a 30% reduction in operational costs and improved system reliability.
 
+- **Enhanced CI/CD Pipelines:** Implemented and optimized CI/CD pipelines using GitHub Actions and Jenkins, reducing deployment time by 50% and increasing release frequency.
+
+- **Cost Optimization Initiatives:** Developed cloud cost management strategies, utilizing AWS Lambda Function, leading to shutting down any EBS Volume not attached to EC2 Instance thereby savings of overvead cost it would have incured annually for the organization.
+
+- **Containerization Projects:** Successfully containerized legacy applications using Docker and orchestrated them with Kubernetes, improving deployment speed and scalability.
+
+- **Automation of Infrastructure Provisioning:** Automated infrastructure provisioning and configuration management with Terraform and Ansible, enabling consistent and reproducible environments.
+
+- **Security Enhancements:** Implemented security best practices and compliance checks for cloud environments, significantly reducing vulnerabilities and ensuring data protection.
+
+- **Technical Training and Mentorship:** Conducted workshops and training sessions for team members on DevOps practices and tools, enhancing overall team skills and knowledge.
+
+
+ **Certifications:** 
+  - **AWS Cloud Practitioners**
+  - **AWS Certified Solutions Architect – Associate**
 ---
 
 ## My Cloud-DevOps-Projects
@@ -58,13 +73,6 @@ Feel free to reach out to me via:
 - **Email:** [taolanre99@gmail.com](mailto:your-email@example.com)
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/taofeek-agboola/)
 - **Medium Blog:** [@my-medium blog](https://medium.com/@lanretaofiq4)
-
----
-
-## Certifications
-
-- **[Certification Name 1](https://www.your-certification-link.com)**
-- **[Certification Name 2](https://www.your-certification-link.com)**
 
 ---
 
