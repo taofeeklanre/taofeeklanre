@@ -1,9 +1,5 @@
 ![Full-Sized Avatar](https://github.com/taofeeklanre.png)
 
-<p align="left">
-  <img src="https://github.com/taofeeklanre.png" alt="My Avatar" width="100" style="float: left; margin-right: 10px;">
-</p>
-
 # Taofeek Agboola (taofeeklanre)
 
 > "How can businesses achieve faster innovation, seamless scalability, and robust security without the expert of Devops or cloud engineer driving automation, cloud infrastructure, and continous delivery?."
