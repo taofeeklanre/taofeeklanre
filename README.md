@@ -31,7 +31,7 @@ This repository contains most of the real-world projects I carried out during my
 
 ### Table Of Contents
 
-1. [How to Deploy a Static Website on AWS](https://medium.com/@lanretaofiq4/how-to-deploy-a-static-website-on-aws-74a53176af0a)
+1. [How to Deploy a Static Website on AWS](https://medium.com/@lanretaofiq4/how-to-deploy-a-static-website-on-aws-74a53176af0a) Click to Medium Blog.
 
 2. How to Securely Connect or SSH into EC2 Instance in the Private Subnets Without Bastion Host.
 
