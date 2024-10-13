@@ -1,4 +1,8 @@
-![Full-Sized Avatar](https://github.com/taofeeklanre.png) https://avatars.githubusercontent.com/u/140952097?v=4
+![Full-Sized Avatar](https://github.com/taofeeklanre.png)
+
+<p align="left">
+  <img src="https://github.com/taofeeklanre.png" alt="My Avatar" width="100" style="float: left; margin-right: 10px;">
+</p>
 
 # Taofeek Agboola (taofeeklanre)
 
