@@ -25,23 +25,23 @@ I am passionate about continuously learning new tools and technologies and apply
 
 ---
 
-## Cloud-DevOps-Projects
+## My Cloud-DevOps-Projects
 
-This repository contains most of the real-world projects I carried out during my Cloud/DevOps career journey.
+This repository showcases a collection of real-world projects I've completed throughout my Cloud/DevOps career.
 
 ### Table Of Contents
 
-1. [How to Deploy a Static Website on AWS](https://medium.com/@lanretaofiq4/how-to-deploy-a-static-website-on-aws-74a53176af0a) Click to Medium Blog.
+1. [How to Deploy a Static Website on AWS](https://medium.com/@lanretaofiq4/how-to-deploy-a-static-website-on-aws-74a53176af0a) Click here to go to my Medium Blog.
 
-2. How to Securely Connect or SSH into EC2 Instance in the Private Subnets Without Bastion Host.
+2. [How to Securely Connect or SSH into EC2 Instance in the Private Subnets Without Bastion Host](https://medium.com/@lanretaofiq4/ec2-instance-connect-endpoint-in-aws-430e43ff310b) Click here to go to my Medium Blog.
 
-3. Hosting A Dynamic Website on AWS- A LAMP STACK FRAME WORK
+3. [Hosting A Dynamic Website on AWS Platform- A LAMP STACK FRAME WORK](https://medium.com/@lanretaofiq4/how-to-hosting-a-dynamic-website-on-aws-lamp-stack-frame-work-7fae14582dc5) Click here to go to my Medium Blog.
 
-4. DOCKER PROJECT: HOST A DYNAMIC WEBSITE ON AWS PLATFORM LEVERAGING ON DOCKER, AMAZON ECR AND AMAZON ECS.
+4. [DOCKER PROJECT: HOST A DYNAMIC WEBSITE ON AWS PLATFORM LEVERAGING ON DOCKER, AMAZON ECR AND AMAZON ECS](https://medium.com/@lanretaofiq4/docker-project-host-a-dynamic-website-on-aws-platform-leveraging-on-docker-amazon-ecr-and-amazon-e619145fce9f) Click here to go to my Medium Blog.
 
-5. Ansible Project: How to Automate the Configuration of Web Servers with Ansible there by Deploying a Static Website on AWS.
+5. [Ansible Project: How to Automate the Configuration of Web Servers with Ansible there by Deploying a Static Website on AWS](https://medium.com/@lanretaofiq4/ansible-project-how-to-automate-the-configuration-of-web-servers-with-ansible-there-by-deploying-a-97c7268b3ed3) Click here to go to my Medium Blog.
 
-6. Building AWS Infrastructure with Terraform Modules.
+6. [Building AWS Infrastructure with Terraform Modules](https://medium.com/@lanretaofiq4/building-aws-infrastructure-with-terraform-modules-6446cc106d25) Click here to go to my Medium Blog.
 
 ### Project 1- How to Deploy a Static Website in AWS Platform
 *[Description and link to the project repository or documentation](https://github.com/taofeeklanre/static-website-Repository).*
