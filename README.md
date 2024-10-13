@@ -1,4 +1,4 @@
-![Full-Sized Avatar](https://github.com/taofeeklanre.png) <[!-- Replace with your avatar URL --](https://avatars.githubusercontent.com/u/140952097?v=4)>
+![Full-Sized Avatar](https://github.com/taofeeklanre.png) https://avatars.githubusercontent.com/u/140952097?v=4
 
 # Taofeek Agboola (taofeeklanre)
 
