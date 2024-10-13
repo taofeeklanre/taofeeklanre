@@ -1,3 +1,5 @@
+![Full-Sized Avatar](https://github.com/taofeeklanre.png)
+
 <p align="center">
   <img src="https://your-image-link.com/your-image.png" alt="Your Avatar" width="150" style="border-radius: 50%;">
 </p>
