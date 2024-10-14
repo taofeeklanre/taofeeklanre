@@ -32,9 +32,6 @@ With my  years of hands-on experience, I am proficient in the dynamic nature of 
 
 - **Security Enhancements:** Implemented security best practices and compliance checks for cloud environments, significantly reducing vulnerabilities and ensuring data protection.
 
-- **Technical Training and Mentorship:** Conducted workshops and training sessions for team members on DevOps practices and tools, enhancing overall team skills and knowledge.
-
-
  **Certifications:** 
   - **AWS Cloud Practitioners**
   - **AWS Certified Solutions Architect – Associate**
@@ -74,7 +71,7 @@ This repository showcases a collection of real-world projects I've completed thr
 *[Description and link to the Ansible project repository or documentation](https://github.com/taofeeklanre/ansible-playbook).*
 
 ### Project 6- Building AWS Infrastructure with Terraform Modules.
-*Description and link to the project repository or documentation.*
+*[Description and link to the project repository or documentation](https://github.com/taofeeklanre/terraform-module-project-code).*
 
 
 <!-- Repeat for other projects -->
