@@ -71,7 +71,7 @@ This repository showcases a collection of real-world projects I've completed thr
 *[Description and link to the project repository or documentation](https://github.com/taofeeklanre/Docker-Project-1).*
 
 ### Project 5- Ansible Project: How to Automate the Configuration of Web Servers with Ansible there by Deploying a Static Website on AWS
-*Description and link to the project repository or documentation.*
+*[Description and link to the project repository or documentation](https://github.com/taofeeklanre/ansible-playbook).*
 
 ### Project 6- Building AWS Infrastructure with Terraform Modules.
 *Description and link to the project repository or documentation.*
