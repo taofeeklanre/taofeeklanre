@@ -64,6 +64,19 @@ This repository showcases a collection of real-world projects I've completed thr
 ### Project 2- How to Securely Connect or SSH into EC2 Instance in the Private Subnets Without Bastion Host.
 *Description and link to the project repository or documentation.*
 
+### Project 3- Hosting A Dynamic Website on AWS Platform- A LAMP STACK FRAME WORK.
+*[Description and link to the project repository or documentation](https://github.com/taofeeklanre/my-dynamic-website-1).*
+
+### Project 4- Docker Project: Host A Dynamic Website on AWS Platform Leveraging on Docker, Amazon ECR And Amazon ECS.
+*[Description and link to the project repository or documentation](https://github.com/taofeeklanre/Docker-Project-1).*
+
+### Project 5- Ansible Project: How to Automate the Configuration of Web Servers with Ansible there by Deploying a Static Website on AWS
+*Description and link to the project repository or documentation.*
+
+### Project 6- Building AWS Infrastructure with Terraform Modules.
+*Description and link to the project repository or documentation.*
+
+
 <!-- Repeat for other projects -->
 
 ## Contact Me
