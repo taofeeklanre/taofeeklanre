@@ -78,7 +78,7 @@ This repository showcases a collection of real-world projects I've completed thr
 
 Feel free to reach out to me via:
 
-- **Email:** [taolanre99@gmail.com](mailto:your-email@example.com)
+- **Email:** [taolanre99@gmail.com](mailto:taolanre99@gmail.com)
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/taofeek-agboola/)
 - **Medium Blog:** [@my-medium blog](https://medium.com/@lanretaofiq4)
 
