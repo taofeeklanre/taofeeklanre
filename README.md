@@ -1,4 +1,3 @@
-![Full-Sized Avatar](https://github.com/taofeeklanre.png)
 
 # Taofeek Agboola (taofeeklanre)
 
