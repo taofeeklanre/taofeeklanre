@@ -1,7 +1,4 @@
 
-
-> "How can businesses achieve faster innovation, seamless scalability, and robust security without the expert of Devops or cloud engineer driving automation, cloud infrastructure, and continous delivery?."
-
 ---
 
 ## About Me
