@@ -50,7 +50,7 @@ This repository showcases a collection of real-world projects I've completed thr
 
 6. [Building AWS Infrastructure with Terraform Modules](https://medium.com/@lanretaofiq4/building-aws-infrastructure-with-terraform-modules-6446cc106d25) Click here to go to my Medium Blog.
 
-7.  [Building AWS Infrastructure with Terraform Modules](https://medium.com/@lanretaofiq4/deployment-of-microservices-sample-voting-application-on-kubernetes-eks-50398c093309)) Click here to go to my Medium Blog.
+7.  [Deployment of Microservices – Sample Voting Application on Kubernetes (EKS) ](https://medium.com/@lanretaofiq4/deployment-of-microservices-sample-voting-application-on-kubernetes-eks-50398c093309)) Click here to go to my Medium Blog.
 
 ### Project 1- How to Deploy a Static Website in AWS Platform
 *[Description and link to the Static Website in AWS project repository or documentation](https://github.com/taofeeklanre/static-website-Repository).*
