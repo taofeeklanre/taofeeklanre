@@ -71,7 +71,7 @@ This repository showcases a collection of real-world projects I've completed thr
 *[Description and link to the project repository or documentation](https://github.com/taofeeklanre/terraform-module-project-code).*
 
 ### Project 7- Deployment of Microservices – Sample Voting Application on Kubernetes (EKS) 
-*[Description and link to the project repository or documentation](https://github.com/taofeeklanre/terraform-module-project-code).*
+*[Description and link to the project repository or documentation](https://github.com/taofeeklanre/voting-app).*
 
 
 
